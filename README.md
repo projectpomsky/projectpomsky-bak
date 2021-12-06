@@ -11,6 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 ### Reality of Situation
 
+#### Events
+
+
 
 ### Goals
 
@@ -18,6 +21,10 @@ You can click the Preview link to take a look at your changes.
 ### Pathways I Could Take
 
 #### Probabilities
+
+#### SWOT Analysis
+
+#### Opportunity Costs
 
 
 ### Assumptions
@@ -27,11 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Needs
-- firewall
+- new legit intrusion detection w/deep packet inspection firewall
 - new nvr
 - new nvr security box
-- security system
+- legit security system
 - lawyer
+- new safe or two
+- digital camera
+- new cable network provider
 
 #### Wants
 - 3d printer
