@@ -42,6 +42,35 @@ You can click the Preview link to take a look at your changes.
 - new safe or two
 - digital camera
 - new cable network provider
+- more tools
+- more sound proofing
+- thermal camera
+- new modem
+- new 4g lte modem
+- spectrum analyzer
+- legit toolbench that locks
+- outdoor 4g lte antenna
+- new watch
+- new medeco locks for remaining doors
+- gas leak monitor
+- camera capable of reading licence plates 24/7
+- more hidden cameras
+- more lead/concrete
+- intelligent video processing that is completely bulletproof from a hacking persoective and which notifies me each night about one or two videos of interest to me, etc--that would be ideal. (So time spent developing such a solution essentially
+)
+- digital forensics expert
+- private investigator
+- cell phone cam
+- thermal imaging detector
+- backup power generator
+- personal assistant
+- non hacked phone or phones
+- non hacked computer or computers
+- indoor cameras/protection
+
+
+- return nebulizer
+- return safe
 
 #### Wants
 - 3d printer
@@ -55,6 +84,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Digital Security
 #### Done Thus Far
+
+https://drive.google.com/drive/folders/1loc6HrF7-PtNhri46QJlMKk0qcn0jMx0?usp=sharing
 
 
 ### Hacking
