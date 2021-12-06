@@ -9,8 +9,15 @@ projectpomsky/projectpomsky is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
+### Reality of Situation
+
 
 ### Goals
+
+
+### Pathways I Could Take
+
+#### Probabilities
 
 
 ### Assumptions
@@ -18,12 +25,42 @@ You can click the Preview link to take a look at your changes.
 
 ### Wants vs Needs
 
+
+#### Needs
+- firewall
+- new nvr
+- new nvr security box
+- security system
+- lawyer
+
+#### Wants
+- 3d printer
+
+
 ### Financials
 
-### Done Thus Far
+
+### Physical Security
+#### Done Thus Far
+
+### Digital Security
+#### Done Thus Far
+
 
 ### Hacking
 
 
 ### Stay vs Go
+
+#### What it would take to go
+
+#### Upcoming life events
+
+
+
+### Todo
+
+- new trustee
+- gfip ownership removal
+- 
 
